@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/pyautoml/module-dependency/blob/main/files/all_imports.png&show_icons=true&locale=en&layout=compact" alt="All modules imported and displayed as a dependency matrix."/></p>
+<p><img align="center" src="https://github.com/pyautoml/module-dependency/blob/main/files/all_imports.png" alt="All modules imported and displayed as a dependency matrix."/></p>
 
 <h1 align="center">Modules Dependency Checker</h1>
 <h3 align="center">Dependency checker for imports / modules. You can choose to select only python inbuilt/native modules, or only custom modules, or all together (default option).
