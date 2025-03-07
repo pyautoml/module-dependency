@@ -1,0 +1,1 @@
+This is an example directory to store PNG files. Please set up your own dictionary for storing matrix images.
