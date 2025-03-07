@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyautoml&label=Profile%20views&color=0e75b6&style=flat" alt="pyautoml" /> </p> 
 
 How to start:<br>
-1. ✅ Install libraries stated in requirements.txt
-2. ✅ Clone repository.
-3. ✅ Make sure, the imported code (as shown in playground.py) is used in a directory where you have an existing Python project (to track modules from files).
-4. ✅ Run the example stored in playground.py to check how it works.
+1. Install libraries stated in requirements.txt
+2. Clone repository.
+3. Make sure the imported code (as shown in playground.py) is used in a directory where you have an existing Python project (to track modules from files).
+4. Run the example stored in playground.py to check how it works.
 <br>
